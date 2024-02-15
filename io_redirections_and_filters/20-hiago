@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -o 'c C'
+tr -cd[:c][:C]
