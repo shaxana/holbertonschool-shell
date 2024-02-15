@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -1 iacta.tmp
+tail -1 iacta_tmp
